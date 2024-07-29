@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-c++thread Pool Base on C++17
-first project 
-=======
 ### c++thread Pool Base on C++17
 
 ### Project description:
@@ -26,4 +22,3 @@ first project
 ### Analysis and positioning problems:
 主要通过gdb attach到正在运行的进程，通过info threads，thread tid，bt等命令查看各个线程的调用
 堆栈信息，结合项目代码，定位到发生死锁的代码片段，分析死锁问题发生的原因.
->>>>>>> copy myproject to this repo
